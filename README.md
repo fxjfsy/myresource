@@ -1,0 +1,2 @@
+# myresource
+record my resource
